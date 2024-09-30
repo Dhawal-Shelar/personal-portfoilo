@@ -192,7 +192,10 @@ export default function Feedback() {
                 boxShadow: "0 4px 10px rgba(0,0,0,0.1)",
               }}
             >
-              <Card.Body className="d-flex justify-content-center flex-column text-center">
+              <Card.Body
+                className="d-flex justify-content-center flex-column text-center"
+                style={{}}
+              >
                 <Card.Title>{data.name}</Card.Title>
                 <Card.Subtitle className="mb-2">{data.email}</Card.Subtitle>
                 <Card.Text>{data.feedback}</Card.Text>
