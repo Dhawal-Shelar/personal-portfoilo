@@ -11,6 +11,7 @@ import {
   FaSignInAlt,
   FaLinkedin,
   FaInstagram,
+  FaGithub,
 } from "react-icons/fa"; // Import icons
 
 export default function NavbarComponent() {
@@ -71,6 +72,9 @@ export default function NavbarComponent() {
             </Nav.Link>
             <Nav.Link href="https://www.linkedin.com/in/dhawal-shelar-8b7b39296/">
               <FaLinkedin style={{ marginRight: "5px" }} /> My LinkedIn
+            </Nav.Link>
+            <Nav.Link href="https://github.com/Dhawal-Shelar">
+              <FaGithub style={{ marginRight: "5px" }} /> My Github
             </Nav.Link>
             <Nav.Link href="https://www.instagram.com/skeeny.spotify/">
               <FaInstagram style={{ marginRight: "5px" }} /> Meet Me Socially
