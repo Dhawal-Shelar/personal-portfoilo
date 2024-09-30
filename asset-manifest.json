@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personal-portfoilo/static/css/main.9a5c6096.css",
+    "main.js": "/personal-portfoilo/static/js/main.de6a031e.js",
+    "static/js/453.b21437c2.chunk.js": "/personal-portfoilo/static/js/453.b21437c2.chunk.js",
+    "static/media/spaceMan.mp4": "/personal-portfoilo/static/media/spaceMan.a518615dea4b5b8e572f.mp4",
+    "static/media/NavSpace.jpg": "/personal-portfoilo/static/media/NavSpace.863074e62b8331e28f73.jpg",
+    "static/media/astronaut.gif": "/personal-portfoilo/static/media/astronaut.445ec3f2d1237f5e8cf8.gif",
+    "static/media/space.jpg": "/personal-portfoilo/static/media/space.6483871e952d94569c59.jpg",
+    "index.html": "/personal-portfoilo/index.html",
+    "main.9a5c6096.css.map": "/personal-portfoilo/static/css/main.9a5c6096.css.map",
+    "main.de6a031e.js.map": "/personal-portfoilo/static/js/main.de6a031e.js.map",
+    "453.b21437c2.chunk.js.map": "/personal-portfoilo/static/js/453.b21437c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.de6a031e.js"
+  ]
+}
